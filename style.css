@@ -7,4 +7,6 @@
 
 header {
     background-image: url(./imagens/pg.mobile.png);
+    background-size: cover;
+    
 }
