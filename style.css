@@ -130,6 +130,7 @@ main {
 @media(min-width: 1000px) {
     body {
         display: flex;
+        height: 100vh;
     }
 
     header {
@@ -160,6 +161,12 @@ main {
     .pg-desktop {
         display: block;
         width: 100%;
+    }
+
+    .pg-desktop img {
+        display: block;
+        width: 100%;
+        height: 100%;
     }
 
     .descricao h1 {
